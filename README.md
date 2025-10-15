@@ -4,6 +4,8 @@
 
 A content-based movie recommendation system built with Python, Pandas, and Scikit-learn. The interactive web interface is powered by Streamlit, allowing users to get movie suggestions in real-time.
 
+🔗 **Live App:** [Click here to open](https://piyush-sm-08-movie-search-and-recommendation-syte-srcapp-fq9f66.streamlit.app/)
+
 ## 🎥 Demo
 🎥 [Watch the demo video here](https://vimeo.com/1127148989)
 
@@ -78,5 +80,3 @@ Once the setup is complete, you can run the Streamlit web application.
 ```bash
 streamlit run app.py
 ```
-
-Open your web browser and navigate to the local URL provided by Streamlit (usually `http://localhost:8501`). Search for a movie and enjoy the recommendations!
